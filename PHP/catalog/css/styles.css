@@ -1,0 +1,59 @@
+/* Here we can add anything we want to suit our project. */
+
+.jumbotron{
+	padding: 30px;
+}
+
+.container{
+	padding-top:100px; /* A quick hack to stop stuff from disappearing below fixed navbar: Change this if it's not suitable for your project. */
+}
+textarea{
+	height:140px;
+}
+
+.cats{
+	float:left;
+	margin-top: 100px;
+	margin-left: 100px;
+		border: 1px solid #999;
+		padding: 10px;
+		margin-top:10px;
+		/*
+		height: 150px;*/
+		width: 400px;
+		
+}
+
+.displayCategory {
+
+	font-weight: bold;
+	color: #009;
+}
+.displayInfo{
+
+	font-weight: normal;
+	color: #900;
+}
+
+.clearFix {
+	clear: both;
+}
+
+#main{
+	width: 500px;
+	float:left;
+}
+
+#rightcol{
+	margin-top: 70px; float:right; margin-right: 200px;
+}
+#rightcol h2, #rightcol h4{
+	color: black;
+	text-decoration: underline;
+}
+
+.required:before {
+    content:"* ";
+    color: red;
+    font-weight: bold;
+  }

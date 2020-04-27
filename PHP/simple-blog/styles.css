@@ -1,0 +1,22 @@
+
+h2{
+    font-size: 36px;
+    color: white;
+    text-align:center;
+}
+
+.banner{
+    background-color: #326fa8;
+    padding: 40px;
+}
+
+a{
+    border: 2px solid white;
+    padding: 5px;
+    color: white;
+
+}
+
+a:hover{
+    color: white;
+}

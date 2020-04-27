@@ -1,0 +1,14 @@
+This is a my catalog project for DMIT- 2025 PHP
+
+This project will represent different cats and their breeds, a collection of my favourites have been added to the database.
+I've inserted cats from all over the globe, but most of them come from North America.
+All the information is currently already inside the DB, more will be added once the catalog project continues.
+The home page will display a list of the cats, and be filtered by links on the side.
+All this will be administered by a secured admin section (eventually). This will allow the admin to preform CRUD operations on the DB table.
+
+Breed: Abyssinian
+Origin: Egypt
+Image: https://www.google.com/search?q=abyssinian+cat&client=firefox-b-d&sxsrf=ALeKk01CzGJxaoq_X4wRLpNmjI31-F4dTg:1586144235652&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMzOnd79LoAhVxMX0KHQnEA4EQ_AUoAXoECBcQAw&biw=1920&bih=944#imgrc=DzdVSF-MISol2M
+Coat: short
+
+sorry for having to put this in a .txt!!
