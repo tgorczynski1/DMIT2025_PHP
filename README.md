@@ -1,2 +1,2 @@
 # DMIT2025_PHP
- Websites with PHP
+Displays PHP and Javascript websites
